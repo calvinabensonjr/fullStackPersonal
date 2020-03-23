@@ -1,0 +1,9 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(https://pbs.twimg.com/media/DXDpZhyUQAA-FD5.jpg);
+  color: gold;
+}
+img{
+  height: 200px;
+}
