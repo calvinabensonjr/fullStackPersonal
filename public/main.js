@@ -1,6 +1,6 @@
 var thumbUp = document.getElementsByClassName("fa-retweet");
 var thumbDown = document.getElementsByClassName("fa-thumbs-down");
-var trash = document.getElementsByClassName("fa-trash");
+var trash = document.getElementsByClassName("fa-dumpster-fire");
 
 Array.from(thumbUp).forEach(function(element) {
       element.addEventListener('click', function(){
